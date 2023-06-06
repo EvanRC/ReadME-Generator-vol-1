@@ -1,0 +1,22 @@
+{
+  "name": "wired-readme",
+  "version": "1.0.0",
+  "description": "Creates a professional ReadMe for various projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanRC/Wired-ReadME-Generator.git"
+  },
+  "author": "Evan Carlson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanRC/Wired-ReadME-Generator/issues"
+  },
+  "homepage": "https://github.com/EvanRC/Wired-ReadME-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
